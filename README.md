@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 | Paper Title | Source | RF Modal Type | Task | Deep Learning Framework |
-| :--- | :----: |  :---: | :----: | :----: |
+| :--- | :----: |  :---: | :----: | :----: | :---: | :----: | :----: |
+| | | | | CNN |  RNN | LSTM | Other |
