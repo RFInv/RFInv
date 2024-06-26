@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 | Paper Title | Source | Task | RF Modal Type | Deep Learning Framework|
 | :--- | :-----: |  :------: | :------: | :------: |
-| XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition | [ACM SenSys'23](https://dl.acm.org/doi/abs/10.1145/3625687.3625792)| Gait Recognition|Wi-Fi/mmWave/LoRa| Transformer|
+| XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition | [ACM SenSys'23](https://dl.acm.org/doi/abs/10.1145/3625687.3625792)| Gait Recognition|Wi-Fi /mmWave /LoRa| Transformer|
 
