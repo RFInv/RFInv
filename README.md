@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-| Paper Title | Source | RF Modal Type | Task | Deep Learning Framework|
+| Paper Title | Source | Task | RF Modal Type | Deep Learning Framework|
 | :--- | :----: |  :---: | :----: | :----: |
 
