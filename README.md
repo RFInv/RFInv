@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+| Paper Title | Source | RF Modal | Task | Deep Learning Framework|
+| :--- | :----: |  :---: | :----: | :----: |
