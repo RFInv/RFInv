@@ -1,4 +1,4 @@
-## 50 Recent Works on Spectrogram/heatmap-based RF Sensing Classification Task 👋
+## 50 Recent Works on Spectrogram/Heatmap-based RF Sensing Classification Task 👋
 
 <!--
 **RFInv/RFInv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
