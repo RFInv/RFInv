@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 | Paper Title | Source | RF Modal Type | Task | Deep Learning Framework |
-| :--- | :----: | :---: | :----: | :----: | :----: | :----: | :----: |
-| | | | | CNN | RNN | Transformer | Other |
-
+| :--- | :----: |  :---: | :----: | :----: | :----: | :----: | :----: |
+|  |  |  |  | CNN | RNN | Transformer | Other |
+| Example Title 1 | Source 1 | Type 1 | Task 1 | Yes | No | No | No |
+| Example Title 2 | Source 2 | Type 2 | Task 2 | No | Yes | No | No |
+| Example Title 3 | Source 3 | Type 3 | Task 3 | No | No | Yes | No |
+| Example Title 4 | Source 4 | Type 4 | Task 4 | No | No | No | Yes |
