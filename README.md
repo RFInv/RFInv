@@ -1,4 +1,4 @@
-## Hi there 👋
+## 50 Recent Works on Spectrogram/heatmap-based RF Sensing Classification Task 👋
 
 <!--
 **RFInv/RFInv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-| Paper Title | Source | RF Modal | Task | Deep Learning Framework|
+| Paper Title | Source | RF Modal Type | Task | Deep Learning Framework|
 | :--- | :----: |  :---: | :----: | :----: |
