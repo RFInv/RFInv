@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 | Paper Title | Source | Task | RF Modal Type | Deep Learning Framework|
 | :--- | :-----: |  :------: | :------: | :------: |
 | XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition | [ACM SenSys'23](https://dl.acm.org/doi/abs/10.1145/3625687.3625792)| Gait Recognition|Wi-Fi /mmWave /LoRa| Transformer|
+| RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing | [ACM MobiCom'24](https://dl.acm.org/doi/abs/10.1145/3636534.3649378)| Egg Incubation Sensing| RFID | CNN |
+| mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592515)| Facial Expression Recognition | mmWave | CNN |
+| Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613302)| Human Pose Estimation | mmWave | LSTM |
+
+
 
