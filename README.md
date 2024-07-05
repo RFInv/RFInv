@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | Towards 3D Human Pose Construction Using WiFi | [ACM MobiCom'20](https://dl.acm.org/doi/10.1145/3372224.3380900)| Human Pose Construction  | Wi-Fi | CNN+LSTM |
 | mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals | [ACM MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596839)| Facial Reconstruction  | mmWave | CNN |
 | Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices | [ACM MobiSys'23](https://dl.acm.org/doi/pdf/10.1145/3581791.3596849)| Object Recognition | mmWave | LSTM+GCN |
-| m^3^Track: mmWave-based Multi-User 3D Posture Tracking| [ACM MobiSys'22](https://dl.acm.org/doi/10.1145/3498361.3538926)| Posture Tracking | mmWave | CNN+LSTM |
+| m^3Track: mmWave-based Multi-User 3D Posture Tracking| [ACM MobiSys'22](https://dl.acm.org/doi/10.1145/3498361.3538926)| Posture Tracking | mmWave | CNN+LSTM |
 | mmMesh: Towards 3D Real-Time Dynamic Human Mesh Construction using Millimeter-Wave | [ACM MobiSys'21](https://dl.acm.org/doi/10.1145/3458864.3467679)| 3D Human Mesh | mmWave | CNN+LSTM |
 | See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar | [ACM MobiSys'20](https://dl.acm.org/doi/10.1145/3386901.3388945)| Indoor Mapping | mmWave | CNN |
 | Construct 3D Hand Skeleton with Commercial WiFi | [ACM SenSys'23](https://dl.acm.org/doi/10.1145/3625687.3625812)| 3D Hand Skeleton Construction | Wi-Fi | CNN |
