@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 | See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar | [ACM MobiSys'20](https://dl.acm.org/doi/10.1145/3386901.3388945)| Indoor Mapping | mmWave | CNN |
 | Construct 3D Hand Skeleton with Commercial WiFi | [ACM SenSys'23](https://dl.acm.org/doi/10.1145/3625687.3625812)| 3D Hand Skeleton Construction | Wi-Fi | CNN |
 | Synthesized Millimeter-Waves for Human Motion Sensing | [ACM SenSys'22](https://dl.acm.org/doi/10.1145/3560905.3568542)| Human Motion Sensing | mmWave | CNN + LSTM |
+| M4esh: mmWave-based 3D Human Mesh Construction for Multiple Subjects | [ACM SenSys'22](https://dl.acm.org/doi/10.1145/3560905.3568545)| 3D Human Mesh | mmWave | LSTM + Transformer + GCN |
+| Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction | [ACM SenSys'22](https://dl.acm.org/doi/10.1145/3560905.3568536)| 3D Human Mesh | Wi-Fi | CNN + Transformer |
+| Solving the WiFi Sensing Dilemma in Reality Leveraging Conformal Prediction | [ACM SenSys'22](https://dl.acm.org/doi/10.1145/3560905.3568529)| Wi-Fi Sensing | Wi-Fi | CNN / RNN |
+| SiFall: Practical Online Fall Detection with RF Sensing | [ACM SenSys'22](https://dl.acm.org/doi/abs/10.1145/3560905.3568517)| Fall Detection | Wi-Fi | CNN |
+| MoRe-Fi: Motion-Robust and Fine-Grained Respiration Monitoring via Deep-Learning UWB Radar | [ACM SenSys'21](https://dl.acm.org/doi/abs/10.1145/3485730.3485932)| Respiration Monitoring | UWB | CNN |
+| OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi | [ACM SenSys'21](https://dl.acm.org/doi/abs/10.1145/3485730.3485936)| Gesture Recognition | Wi-Fi | Transformer |
 
 
 
