@@ -23,7 +23,16 @@ Here are some ideas to get you started:
 | RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing | [ACM MobiCom'24](https://dl.acm.org/doi/abs/10.1145/3636534.3649378)| Egg Incubation Sensing| RFID | CNN |
 | mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592515)| Facial Expression Recognition | mmWave | CNN |
 | Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613302)| Human Pose Estimation | mmWave | LSTM |
-| Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration | [ACM MobiCom'22](https://dlnext.acm.org/doi/abs/10.1145/3495243.3560515)| Human Pose Estimation | mmWave | LSTM |
+| Towards 3D Human Pose Construction Using WiFi | [ACM MobiCom'20](https://dl.acm.org/doi/10.1145/3372224.3380900)| Human Pose Construction  | Wi-Fi | CNN+LSTM |
+| mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals | [ACM MobiSys'23](https://dl.acm.org/doi/abs/10.1145/3581791.3596839)| Facial Reconstruction  | mmWave | CNN |
+| Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices | [ACM MobiSys'23](https://dl.acm.org/doi/pdf/10.1145/3581791.3596849)| Object Recognition | mmWave | LSTM+GCN |
+| m^3^Track: mmWave-based Multi-User 3D Posture Tracking| [ACM MobiSys'22](https://dl.acm.org/doi/10.1145/3498361.3538926)| Posture Tracking | mmWave | CNN+LSTM |
+| mmMesh: Towards 3D Real-Time Dynamic Human Mesh Construction using Millimeter-Wave | [ACM MobiSys'21](https://dl.acm.org/doi/10.1145/3458864.3467679)| 3D Human Mesh | mmWave | CNN+LSTM |
+| See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar | [ACM MobiSys'20](https://dl.acm.org/doi/10.1145/3386901.3388945)| Indoor Mapping | mmWave | CNN |
+| Construct 3D Hand Skeleton with Commercial WiFi | [ACM SenSys'23](https://dl.acm.org/doi/10.1145/3625687.3625812)| 3D Hand Skeleton Construction | Wi-Fi | CNN |
+| Synthesized Millimeter-Waves for Human Motion Sensing | [ACM SenSys'22](https://dl.acm.org/doi/10.1145/3560905.3568542)| Human Motion Sensing | mmWave | CNN + LSTM |
+
+
 
 
 
