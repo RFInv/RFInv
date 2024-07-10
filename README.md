@@ -1,4 +1,4 @@
-## 50 Recent Works on Spectrogram/Heatmap-based RF Sensing Classification Task 👋
+## Recent Works on Spectrogram/Heatmap-based RF Sensing Classification Task 👋
 
 
 <!--
