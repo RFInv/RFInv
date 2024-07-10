@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 | SiFall: Practical Online Fall Detection with RF Sensing | [ACM SenSys'22](https://dl.acm.org/doi/abs/10.1145/3560905.3568517)| Fall Detection | Wi-Fi | CNN |
 | MoRe-Fi: Motion-Robust and Fine-Grained Respiration Monitoring via Deep-Learning UWB Radar | [ACM SenSys'21](https://dl.acm.org/doi/abs/10.1145/3485730.3485932)| Respiration Monitoring | UWB | CNN |
 | OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi | [ACM SenSys'21](https://dl.acm.org/doi/abs/10.1145/3485730.3485936)| Gesture Recognition | Wi-Fi | Transformer |
-
-
+| Widar3.0: Zero-Effort Cross-Domain Gesture Recognition With Wi-Fi | [IEEE TPAMI'22](https://ieeexplore.ieee.org/abstract/document/9516988)| Gesture Recognition | Wi-Fi | CNN + GRU |
 
 
 
