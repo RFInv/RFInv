@@ -1,4 +1,4 @@
-## Recent Works on Deep Learning-Empowered RF Sensing Classification Tasks 👋
+## Recent Works on Deep Learning-Empowered RF Sensing Tasks 👋
 
 
 <!--
