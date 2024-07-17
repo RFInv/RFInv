@@ -38,8 +38,12 @@ Here are some ideas to get you started:
 | Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals | [ACM SenSys'21](https://dl.acm.org/doi/abs/10.1145/3485730.3485945)| Speech Recognition | mmWave | ECA-Net (CNN) |
 | RFWash: A Weakly Supervised Tracking of Hand Hygiene Technique | [ACM SenSys'20](https://dl.acm.org/doi/10.1145/3384419.3430733)| Hand Hygiene | mmWave | CNN + BiLSTM |
 | mmSign: mmWave-based Few-Shot Online Handwritten Signature Verification | [ACM TOSN'23](https://dl.acm.org/doi/10.1145/3605945)| Signature Verification | mmWave | Transformer |
-| Widar3.0: Zero-Effort Cross-Domain Gesture Recognition With Wi-Fi | [IEEE TPAMI'22](https://ieeexplore.ieee.org/abstract/document/9516988)| Gesture Recognition | Wi-Fi | CNN + GRU |
-| Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal | [IEEE TMC'23](https://ieeexplore.ieee.org/abstract/document/9894724)| Gesture Recognition | mmWave | CNN + LSTM |
-| Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing | [AAAI'20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)| Gait Recognition | mmWave | CNN |
-| mmWave-YOLO: A mmWave Imaging Radar-Based Real-Time Multiclass Object Recognition System for ADAS Applications | [IEEE TIM'22](https://ieeexplore.ieee.org/abstract/document/9777730)| Object Recognition | mmWave | CNN |
+| Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi | [IEEE TPAMI'22](https://ieeexplore.ieee.org/abstract/document/9516988)| Gesture Recognition | Wi-Fi | CNN + GRU |
+| Towards Domain-Independent and Real-Time Gesture Recognition using mmWave Signal | [IEEE TMC'23](https://ieeexplore.ieee.org/abstract/document/9894724)| Gesture Recognition | mmWave | CNN + LSTM |
+| Gait Recognition for Co-Existing Multiple People using Millimeter Wave Sensing | [AAAI'20](https://ojs.aaai.org/index.php/AAAI/article/view/5430)| Gait Recognition | mmWave | CNN |
+| mmWave-YOLO: A mmWave Imaging Radar-based Real-Time Multiclass Object Recognition System for ADAS Applications | [IEEE TIM'22](https://ieeexplore.ieee.org/abstract/document/9777730)| Object Recognition | mmWave | CNN |
+| mSilent: Towards General Corpus Silent Speech Recognition using COTS mmWave Radar | [ACM IMWUT'23](https://dl.acm.org/doi/abs/10.1145/3580838)| Silent Speech Recognition | mmWave | Transformer |
+| mmMIC: Multi-modal Speech Recognition based on mmWave Radar | [IEEE INFOCOM'23](https://dl.acm.org/doi/abs/10.1145/3580838)| Speech Recognition | mmWave | CNN |
+| Real-time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing | [ACM IMWUT'20](https://dl.acm.org/doi/abs/10.1145/3432235)| Arm Gesture Recognition | mmWave | CNN |
+| mTransSee: Enabling Environment-Independent mmWave Sensing Based Gesture Recognition via Transfer Learning | [ACM IMWUT'22](https://dl.acm.org/doi/abs/10.1145/3517231)| Gesture Recognition | mmWave | CNN |
 
