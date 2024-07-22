@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 | mmWave-YOLO: A mmWave Imaging Radar-based Real-Time Multiclass Object Recognition System for ADAS Applications | [IEEE TIM'22](https://ieeexplore.ieee.org/abstract/document/9777730)| Object Recognition | mmWave | CNN |
 | mSilent: Towards General Corpus Silent Speech Recognition using COTS mmWave Radar | [ACM IMWUT'23](https://dl.acm.org/doi/abs/10.1145/3580838)| Silent Speech Recognition | mmWave | Transformer |
 | mmMIC: Multi-modal Speech Recognition based on mmWave Radar | [IEEE INFOCOM'23](https://dl.acm.org/doi/abs/10.1145/3580838)| Speech Recognition | mmWave | CNN |
-| Real-time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing | [ACM IMWUT'20](https://dl.acm.org/doi/abs/10.1145/3432235)| Arm Gesture Recognition | mmWave | CNN |
+| Real-Time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing | [ACM IMWUT'20](https://dl.acm.org/doi/abs/10.1145/3432235)| Arm Gesture Recognition | mmWave | CNN |
 | mTransSee: Enabling Environment-Independent mmWave Sensing Based Gesture Recognition via Transfer Learning | [ACM IMWUT'22](https://dl.acm.org/doi/abs/10.1145/3517231)| Gesture Recognition | mmWave | CNN |
 | mmHSV: In-Air Handwritten Signature Verification via Millimeter-Wave Radar | [ACM TIOT'22](https://dl.acm.org/doi/full/10.1145/3614443)| Signature Verification  | mmWave | CNN |
 
