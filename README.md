@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 | Paper Title | Source | Task | RF Modal Type | Deep Learning Framework|
 | :--- | :-----: |  :------: | :------: | :------: |
 | MU-ID: Multi-user Identification Through Gaits using Millimeter Wave Radios | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9155471)| Gait Recognition | mmWave | CNN |
-| Argosleep: Monitoring Sleep Posture from Commodity Millimeter-Wave Devices | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/document/10228913)| Sleeping States Classification | mmWave | CNN |
+| Argosleep: Monitoring Sleep Posture from Commodity Millimeter-Wave Devices | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/document/10228913)| Sleeping States Recognition | mmWave | CNN |
 | RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing | [ACM MobiCom'24](https://dl.acm.org/doi/abs/10.1145/3636534.3649378)| Egg Incubation Status Recognition| RFID | CNN |
 | mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3592515)| Facial Expression Recognition | mmWave | CNN |
 | Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation | [ACM MobiCom'23](https://dl.acm.org/doi/10.1145/3570361.3613302)| Human Pose Estimation | mmWave | LSTM |
@@ -49,4 +49,9 @@ Here are some ideas to get you started:
 | Real-Time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing | [ACM IMWUT'20](https://dl.acm.org/doi/abs/10.1145/3432235)| Arm Gesture Recognition | mmWave | CNN |
 | mTransSee: Enabling Environment-Independent mmWave Sensing Based Gesture Recognition via Transfer Learning | [ACM IMWUT'22](https://dl.acm.org/doi/abs/10.1145/3517231)| Gesture Recognition | mmWave | CNN |
 | mmHSV: In-Air Handwritten Signature Verification via Millimeter-Wave Radar | [ACM TIOT'22](https://dl.acm.org/doi/full/10.1145/3614443)| Signature Verification  | mmWave | CNN |
+| Human Activity Recognition Using Smartphones With WiFi Signals | [IEEE THMS'22](https://ieeexplore.ieee.org/abstract/document/9832420)| Human Activity Recognition  | Wi-Fi | CNN / LSTM|
+| Location- and Person-Independent Activity Recognition with WiFi, Deep Neural Networks, and Reinforcement Learning | [ACM TIoT'21](https://dl.acm.org/doi/abs/10.1145/3424739)| Activity Recognition  | Wi-Fi | CNN |
+| Joint human orientation-activity recognition using wifi signals for human-machine interaction | [IEEE ICASSP'23](https://ieeexplore.ieee.org/abstract/document/10094880)| Orientation-Activity Recognition  | Wi-Fi | CNN |
+| WiHF: Enable User Identified Gesture Recognition with WiFi | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9155539)| User Identified Gesture Recognition | Wi-Fi | CNN-GRU |
+| Understanding WiFi Signal Frequency Features for Position-Independent Gesture Sensing | [IEEE TMC'22](https://ieeexplore.ieee.org/abstract/document/9366929)| Position-Independent Gesture Sensing | Wi-Fi | CNN / CNN+LSTM |
 
