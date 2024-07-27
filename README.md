@@ -54,4 +54,8 @@ Here are some ideas to get you started:
 | Joint human orientation-activity recognition using wifi signals for human-machine interaction | [IEEE ICASSP'23](https://ieeexplore.ieee.org/abstract/document/10094880)| Orientation-Activity Recognition  | Wi-Fi | CNN |
 | WiHF: Enable User Identified Gesture Recognition with WiFi | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9155539)| User Identified Gesture Recognition | Wi-Fi | CNN-GRU |
 | Understanding WiFi Signal Frequency Features for Position-Independent Gesture Sensing | [IEEE TMC'22](https://ieeexplore.ieee.org/abstract/document/9366929)| Position-Independent Gesture Sensing | Wi-Fi | CNN / CNN+LSTM |
-
+| GaitSense: Towards Ubiquitous Gait-Based Human Identification with Wi-Fi | [ACM TOSN'21](https://dl.acm.org/doi/abs/10.1145/3466638)| Gait-based Human Identification | Wi-Fi | CNN |
+| Wi-PIGR: Path Independent Gait Recognition with Commodity Wi-Fi | [IEEE TMC'21](https://ieeexplore.ieee.org/abstract/document/9328155)| Gait Recognition | Wi-Fi | CNN + LSTM |
+| MetaGanFi: Cross-Domain Unseen Individual Identification using WiFi Signals | [ACM IMWUT'22](https://dl.acm.org/doi/abs/10.1145/3550306)| Unseen Individual Identification | Wi-Fi | CNN |
+| Path-Independent Device-Free Gait Recognition Using mmWave Signals | [IEEE TVT'21](https://ieeexplore.ieee.org/abstract/document/9535254)| Gait Recognition | mmWave | CNN |
+| DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI | [IEEE TIFS'24](https://ieeexplore.ieee.org/abstract/document/10411052)| Cross Scene & State Gait Recognition | Wi-Fi | Transformer |
