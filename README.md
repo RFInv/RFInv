@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 | MetaGanFi: Cross-Domain Unseen Individual Identification using WiFi Signals | [ACM IMWUT'22](https://dl.acm.org/doi/abs/10.1145/3550306)| Unseen Individual Identification | Wi-Fi | CNN |
 | Path-Independent Device-Free Gait Recognition Using mmWave Signals | [IEEE TVT'21](https://ieeexplore.ieee.org/abstract/document/9535254)| Gait Recognition | mmWave | CNN |
 | DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI | [IEEE TIFS'24](https://ieeexplore.ieee.org/abstract/document/10411052)| Cross Scene & State Gait Recognition | Wi-Fi | Transformer |
+| mmStress: Distilling Human Stress from Daily Activities via Contact-less Millimeter-wave Sensing | [ACM IMWUT'23](https://dl.acm.org/doi/abs/10.1145/3610926)| Human Stress Distilling  | mmWave | CNN+ + Transformer |
+
