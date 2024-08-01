@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 | DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI | [IEEE TIFS'24](https://ieeexplore.ieee.org/abstract/document/10411052)| Cross Scene & State Gait Recognition | Wi-Fi | Transformer |
 
 
-### Note: The deep learning model architectures used in these systems are primarily based on the frameworks listed in the "Deep Learning Framework" column (e.g., CNN, RNN). However, they may also incorporate additional modules and techniques to enhance performance and achieve specific task requirements.
+## Note: The deep learning architectures used in these RF sensing systems are primarily based on the frameworks listed in the "Deep Learning Framework" column (e.g., CNN, RNN). However, they may also incorporate additional modules and techniques to enhance performance and achieve specific task requirements.
