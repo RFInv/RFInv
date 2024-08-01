@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 | Paper Title | Source | Task | RF Modal Type | Deep Learning Framework|
 | :--- | :-----: |  :------: | :------: | :------: |
 | MU-ID: Multi-user Identification Through Gaits using Millimeter Wave Radios | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9155471)| Gait Recognition | mmWave | CNN |
-| WiHF: Enable User Identified Gesture Recognition with WiFi | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9155539)| User Identified Gesture Recognition | Wi-Fi | CNN-GRU |
+| WiHF: Enable User Identified Gesture Recognition with WiFi | [IEEE INFOCOM'20](https://ieeexplore.ieee.org/abstract/document/9796740)| User Identified Gesture Recognition | Wi-Fi | CNN-GRU |
+| Push the Limit of WiFi-based User Authentication towards Undefined Gestures | [IEEE INFOCOM'22](https://ieeexplore.ieee.org/abstract/document/9155539)| Gesture-based User Authentication | Wi-Fi | CNN + RNN + GMM |
 | Argosleep: Monitoring Sleep Posture from Commodity Millimeter-Wave Devices | [IEEE INFOCOM'23](https://ieeexplore.ieee.org/document/10228913)| Sleeping States Recognition | mmWave | CNN |
 | mmMIC: Multi-modal Speech Recognition based on mmWave Radar | [IEEE INFOCOM'23](https://dl.acm.org/doi/abs/10.1145/3580838)| Speech Recognition | mmWave | CNN |
 | RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing | [ACM MobiCom'24](https://dl.acm.org/doi/abs/10.1145/3636534.3649378)| Egg Incubation Status Recognition| RFID | CNN |
@@ -61,3 +62,5 @@ Here are some ideas to get you started:
 | Path-Independent Device-Free Gait Recognition Using mmWave Signals | [IEEE TVT'21](https://ieeexplore.ieee.org/abstract/document/9535254)| Gait Recognition | mmWave | CNN |
 | DCS-Gait: A Class-Level Domain Adaptation Approach for Cross-Scene and Cross-State Gait Recognition Using Wi-Fi CSI | [IEEE TIFS'24](https://ieeexplore.ieee.org/abstract/document/10411052)| Cross Scene & State Gait Recognition | Wi-Fi | Transformer |
 
+
+# Note: The deep learning model architectures used in these systems are primarily based on the frameworks listed in the "Deep Learning Framework" column (e.g., CNN, RNN). However, they may also incorporate additional modules and techniques to enhance performance and achieve specific task requirements.
